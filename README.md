@@ -1,6 +1,8 @@
 # 在不确定中做选择
 
-**作者 KK · AI辅助完整中文首稿 · draft v0.1 · 待作者审阅**
+**作者 KK · AI辅助完整中文首稿 · draft v0.1 · 内容已获作者验收**
+
+正文和版权文件保留首稿时的原有文字；当前内容验收状态以本页和元数据为准。
 
 普通人在信息不全、情绪压力和他人意见中，怎样界定选择、核查证据、比较代价、有限试验并从结果学习。12章原创生活案例与叙述，附一页选择记录、术语表及8张证据来源卡。侧重工作、居住、消费、合作与日常安排，不提供个人投资或重大医疗决策教程。
 
@@ -11,7 +13,7 @@
 - 版权与来源：[COPYRIGHT.md](COPYRIGHT.md)
 - 修订记录：[CHANGELOG.md](CHANGELOG.md)
 
-本版本为AI辅助撰写的完整草案，待作者审阅，不是已完成专业编辑审定的出版定稿。人物、对话及生活场景为原创虚构，研究材料另列出处。欢迎以章节及具体段落为单位反馈可读性、事实问题、遗漏和工具使用体验；请勿提交个人敏感资料或未经授权的第三方内容。反馈不自动构成任何授权或版权转让。
+本版本为AI辅助撰写的完整草案，内容已获作者验收，不是已完成专业编辑审定的出版定稿。人物、对话及生活场景为原创虚构，研究材料另列出处。欢迎以章节及具体段落为单位反馈可读性、事实问题、遗漏和工具使用体验；请勿提交个人敏感资料或未经授权的第三方内容。反馈不自动构成任何授权或版权转让。
 
 ## 目录
 
@@ -35,6 +37,6 @@
 
 *Choosing Under Uncertainty* by KK is a complete Chinese first draft about ordinary decisions under incomplete information. Twelve original, story-led chapters cover framing a decision, setting constraints, developing options, assessing evidence, expressing uncertainty, considering intuition and emotion, using advice, comparing costs, running bounded trials, committing, changing course, and reviewing outcomes.
 
-The manuscript includes a decision record, a bilingual terminology list, and eight source cards. It does not offer personalized investment advice or major medical decision instruction. This is an AI-assisted draft awaiting author review, not a professionally finalized edition. Scenarios are fictional; research claims have traceable references and stated limits. An international translation has not yet been produced.
+The manuscript includes a decision record, a bilingual terminology list, and eight source cards. It does not offer personalized investment advice or major medical decision instruction. The author has accepted the content of this AI-assisted draft; it is not a professionally finalized edition. Scenarios are fictional; research claims have traceable references and stated limits. An international translation has not yet been produced.
 
 Please identify the chapter and passage when proposing factual corrections or editorial feedback. Do not include private or unauthorized third-party material. You may read this book free of charge and redistribute complete, unchanged reader-manuscript files for noncommercial purposes, retaining KK’s attribution, the copyright notice, and source notes. Commercial use or distribution of adapted versions requires KK’s permission. This permission covers only material KK has the right to license. See [COPYRIGHT.md](COPYRIGHT.md).

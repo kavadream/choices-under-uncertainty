@@ -2,7 +2,7 @@
   "title": "在不确定中做选择",
   "author": "KK",
   "version": "draft-v0.1",
-  "review_status": "awaiting author review",
+  "review_status": "content accepted by author",
   "files": [
     {
       "path": "BOOK.md",
@@ -21,13 +21,13 @@
     },
     {
       "path": "README.en.md",
-      "bytes": 1756,
-      "sha256": "dba3ec4a6d886756231536ba64407ed0861415aba21190e64ec0c83fbbd6fdb7"
+      "bytes": 1923,
+      "sha256": "5fa3ee7fa31c4590d596e2f3d1a411b03dd3055d7052774c9a66d67cbbc24cd0"
     },
     {
       "path": "README.md",
-      "bytes": 3547,
-      "sha256": "f0d835303ce2c57a616238f73eb7c0083bec55078604cdd42dab3a591fde1a0a"
+      "bytes": 3691,
+      "sha256": "5c90e825a882ad8f766ce7051d6091d10f253f8bcd83eca3df6ffa302f95464d"
     },
     {
       "path": "manuscript/00-front.md",
