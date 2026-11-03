@@ -37,6 +37,14 @@
 
 *Choosing Under Uncertainty* by KK is a complete Chinese first draft about ordinary decisions under incomplete information. Twelve original, story-led chapters cover framing a decision, setting constraints, developing options, assessing evidence, expressing uncertainty, considering intuition and emotion, using advice, comparing costs, running bounded trials, committing, changing course, and reviewing outcomes.
 
-The manuscript includes a decision record, a bilingual terminology list, and eight source cards. It does not offer personalized investment advice or major medical decision instruction. The author has accepted the content of this AI-assisted draft; it is not a professionally finalized edition. Scenarios are fictional; research claims have traceable references and stated limits. An international translation has not yet been produced.
+The manuscript includes a decision record, a bilingual terminology list, and eight source cards. It does not offer personalized investment advice or major medical decision instruction. The author has accepted the content of this AI-assisted draft; it is not a professionally finalized edition. Scenarios are fictional; research claims have traceable references and stated limits. A complete AI-assisted [English translation preview](translations/en/book.md) is now available; native-English review is pending.
 
 Please identify the chapter and passage when proposing factual corrections or editorial feedback. Do not include private or unauthorized third-party material. You may read this book free of charge and redistribute complete, unchanged reader-manuscript files for noncommercial purposes, retaining KK’s attribution, the copyright notice, and source notes. Commercial use or distribution of adapted versions requires KK’s permission. This permission covers only material KK has the right to license. See [COPYRIGHT.md](COPYRIGHT.md).
+
+## 英文翻译预览
+
+- [完整英文译稿](translations/en/book.md)
+- [英文目录、来源与纠错说明](translations/en/README.md)
+- [英文版权说明](translations/en/COPYRIGHT.md)
+
+英文为完整的AI辅助翻译预览，尚待英语母语者校正，未经过人类目标语审阅。作者KK的母语是中文，欢迎英语母语读者通过本仓Issues或pull request提出准确性、措辞与可读性修正。中文内容已获作者验收；原有中文正文、来源和版权范围保持不变。
